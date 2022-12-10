@@ -6,7 +6,7 @@
 /*   By: mdekker <mdekker@student.codam.nl>           +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/12/07 13:05:17 by mdekker       #+#    #+#                 */
-/*   Updated: 2022/12/10 13:48:21 by mdekker       ########   odam.nl         */
+/*   Updated: 2022/12/10 13:52:02 by mdekker       ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,5 +20,6 @@ char *get_next_line(int fd)
 
 int main(void)
 {
+	printf("abc");
 	return (0);
 }
